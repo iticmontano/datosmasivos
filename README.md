@@ -58,6 +58,7 @@ Prof. JOSE CHRISTIAN ROMERO HERNANDEZ
 
 
 Exam https://github.com/iticmontano/datosmasivos/blob/unidad1/Exam/Exam.scala
+
 // 1. Declare tup with the matrix
 
 // 2. Calculate the both diagonals sum, saving each one in a variable
