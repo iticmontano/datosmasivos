@@ -1,4 +1,4 @@
-// Assessment 1/Practica 1
+//Practica 1
 //1. Develop an algorithm in scala that calculates the radius of a circle
     // Declare the operation of 2 (pi) within a "radius" value
         val radio:Int = 2*3.1415926535
@@ -18,7 +18,7 @@
 //3. Given the variable bird = "tweet", use string interpolation to
 // print "I am writing a tweet"
     val bird = "tweet"
-    println(s"Estoy escribiendo un $bird")
+    println(s"I am writing a $bird")
 
 //4. Given the variable message = "Hi Luke, I'm your father!" use slilce to extract the
 // sequence "Luke"
