@@ -1,8 +1,29 @@
 # datosmasivos
-branch unidad 1
+Tecnológico nacional de México
+ 
+Instituto tecnológico de Tijuana
+
+Subdirección académica
+
+Departamento de sistemas y computación
+
+Semestre	Enero-Junio 2020
+
+Ingeniería en tecnología de la información y comunicaciones
+
+Datos Masivos (BDD-1704 TI9A) 
+
+Alumnos. Hernández Hernández Marcos José 15211702
+         Montaño Pelayo Raul Antonio 15211703
+
+Prof. JOSE CHRISTIAN ROMERO HERNANDEZ	
+
+
+
+branch unidad 1 https://github.com/iticmontano/datosmasivos/blob/unidad1/Practices/P1.scala
 // Assessment 1 / Practice 1
-//one. Develop an algorithm in scala that calculates the radius of a circle
-//two. Develop an algorithm in scala that tells me if a number is a cousin
+//1. Develop an algorithm in scala that calculates the radius of a circle
+//2. Develop an algorithm in scala that tells me if a number is a cousin
 //3. Given the variable bird = "tweet", use string interpolation to
 // print "I am writing a tweet"
 //4. Given the variable message = "Hi Luke, I'm your father!" use slilce to extract the
@@ -11,7 +32,7 @@ branch unidad 1
 // 6. Given the tuple ((2,4,5), (1,2,3), (3,114,23))) return the number 3.1416
 
 
-// Practice 2
+// Practice 2 https://github.com/iticmontano/datosmasivos/blob/unidad1/Practices/P2.scala
 // 1. Create a list called "list" with the elements "red", "white", "black"
 // 2. Add 5 more items to "list" "green", "yellow", "blue", "orange", "pearl"
 // 3. Bring the "list" "green", "yellow", "blue" items
