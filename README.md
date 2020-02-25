@@ -18,10 +18,9 @@ Alumnos. Hernández Hernández Marcos José 15211702
 
 Prof. JOSE CHRISTIAN ROMERO HERNANDEZ	
 
+-----------Unidad 1---------------------
 
-
-branch unidad 1 https://github.com/iticmontano/datosmasivos/blob/unidad1/Practices/P1.scala
-// Assessment 1 / Practice 1
+// Practice 1 https://github.com/iticmontano/datosmasivos/blob/unidad1/Practices/P1.scala
 
 //1. Develop an algorithm in scala that calculates the radius of a circle
 
@@ -56,3 +55,14 @@ branch unidad 1 https://github.com/iticmontano/datosmasivos/blob/unidad1/Practic
 // 6 a. Print all map keys
 
 // 7 b. Add the following value to the map ("Miguel", 23)
+
+
+Exam https://github.com/iticmontano/datosmasivos/blob/unidad1/Exam/Exam.scala
+// 1. Declare tup with the matrix
+
+// 2. Calculate the both diagonals sum, saving each one in a variable
+
+// 3. After will calculate the absolute value returning the result.
+
+// 4. call the function with the result
+
